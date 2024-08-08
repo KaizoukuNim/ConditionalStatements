@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d193cfd5-7fdf-4b10-9e38-696a8778fee6" name="Changes" comment="nimesh">
+    <list default="true" id="d193cfd5-7fdf-4b10-9e38-696a8778fee6" name="Changes" comment="nimesh1">
+      <change afterPath="$PROJECT_DIR$/src/tshirtprototype.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Second.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,26 +44,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Second.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hw.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Code/learningphase&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Code/ConditionalStatements/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Second.executor": "Run",
+    "Application.hw.executor": "Run",
+    "Application.tshirtprototype.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Code/learningphase",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Code/ConditionalStatements/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="hw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw" />
@@ -104,6 +105,13 @@
       <workItem from="1721010921022" duration="54000" />
       <workItem from="1721113443762" duration="87000" />
       <workItem from="1721114288750" duration="1333000" />
+      <workItem from="1721116703025" duration="85000" />
+      <workItem from="1721132678168" duration="109000" />
+      <workItem from="1721265432055" duration="53000" />
+      <workItem from="1721281529500" duration="3000" />
+      <workItem from="1721720704161" duration="37000" />
+      <workItem from="1723136604519" duration="1744000" />
+      <workItem from="1723139572544" duration="362000" />
     </task>
     <task id="LOCAL-00001" summary="nimesh">
       <option name="closed" value="true" />
@@ -121,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720513566388</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="nimesh1">
+      <option name="closed" value="true" />
+      <created>1721116780857</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721116780857</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nimesh" />
-    <option name="LAST_COMMIT_MESSAGE" value="nimesh" />
+    <MESSAGE value="nimesh1" />
+    <option name="LAST_COMMIT_MESSAGE" value="nimesh1" />
   </component>
 </project>
