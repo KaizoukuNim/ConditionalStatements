@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d193cfd5-7fdf-4b10-9e38-696a8778fee6" name="Changes" comment="nimesh1">
-      <change afterPath="$PROJECT_DIR$/src/tshirtprototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d193cfd5-7fdf-4b10-9e38-696a8778fee6" name="Changes" comment="nimesh1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +108,7 @@
       <workItem from="1721281529500" duration="3000" />
       <workItem from="1721720704161" duration="37000" />
       <workItem from="1723136604519" duration="1744000" />
-      <workItem from="1723139572544" duration="362000" />
+      <workItem from="1723139572544" duration="679000" />
     </task>
     <task id="LOCAL-00001" summary="nimesh">
       <option name="closed" value="true" />
@@ -137,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721116780857</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="nimesh1">
+      <option name="closed" value="true" />
+      <created>1723139950943</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723139950943</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
